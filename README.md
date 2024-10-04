@@ -1,2 +1,2 @@
 # Sentiment Analysis
-### An NLP tool meant to classify a text document's prevailing sentiments. Intend to generalize to multiple class values.
+### An NLP tool for classifying a text document's prevailing sentiment(s), and generalizable to multiple class values.
